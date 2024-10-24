@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samae\\Downloads\\PKMN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|solutionrelative:pkmn\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\iuserinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\iuserinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\turnresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\turnresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\idisplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\idisplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\players\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\players\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\players\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\players\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\moves\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\moves\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\moves\\battlemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\moves\\battlemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.models\\monsters\\basemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0316B6CD-DA30-41A6-84D8-8ECD7DC239C7}|PKMN.Models\\PKMN.Models.csproj|solutionrelative:pkmn.models\\monsters\\basemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|solutionrelative:pkmn\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A50AAB-94A6-48C3-80AB-5AD2F5B58496}|PKMN\\PKMN.Console.csproj|solutionrelative:pkmn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDBC672-24D8-4670-B6F1-DF9D2E8D6692}|PKMN.BattleSys\\PKMN.BattleSys.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.battlesys\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDBC672-24D8-4670-B6F1-DF9D2E8D6692}|PKMN.BattleSys\\PKMN.BattleSys.csproj|solutionrelative:pkmn.battlesys\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B72226-B690-4E6D-B0B7-C3DBE897763E}|PKMN.Utilities\\PKMN.Utilities.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.utilities\\calculators\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B72226-B690-4E6D-B0B7-C3DBE897763E}|PKMN.Utilities\\PKMN.Utilities.csproj|solutionrelative:pkmn.utilities\\calculators\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0273A5-350F-4E21-BE50-50D1175962B4}|PKMN.RepoTest\\PKMN.RepoTest.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.repotest\\basemonsterrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0273A5-350F-4E21-BE50-50D1175962B4}|PKMN.RepoTest\\PKMN.RepoTest.csproj|solutionrelative:pkmn.repotest\\basemonsterrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.repo\\battlemoverepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|solutionrelative:pkmn.repo\\battlemoverepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.repo\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|solutionrelative:pkmn.repo\\baserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|solutionrelative:pkmn.repo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B72226-B690-4E6D-B0B7-C3DBE897763E}|PKMN.Utilities\\PKMN.Utilities.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.utilities\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B72226-B690-4E6D-B0B7-C3DBE897763E}|PKMN.Utilities\\PKMN.Utilities.csproj|solutionrelative:pkmn.utilities\\objectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|c:\\users\\samae\\downloads\\pkmn\\pkmn.repo\\pkmn.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7190383C-09B6-42A1-8354-75F98E98FE35}|PKMN.Repo\\PKMN.Repo.csproj|solutionrelative:pkmn.repo\\pkmn.repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "PKMN\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\HumanPlayer.cs",
+              "RelativeToolTip": "PKMN\\HumanPlayer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwDwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:44:44.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDisplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\IDisplayManager.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\IDisplayManager.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\IDisplayManager.cs",
+              "RelativeToolTip": "PKMN.Models\\IDisplayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:06:50.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\Program.cs",
+              "RelativeDocumentMoniker": "PKMN\\Program.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\Program.cs",
+              "RelativeToolTip": "PKMN\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:14:12.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\DisplayManager.cs",
+              "RelativeDocumentMoniker": "PKMN\\DisplayManager.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN\\DisplayManager.cs",
+              "RelativeToolTip": "PKMN\\DisplayManager.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwE8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:09:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BattleMove.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Moves\\BattleMove.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\Moves\\BattleMove.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Moves\\BattleMove.cs",
+              "RelativeToolTip": "PKMN.Models\\Moves\\BattleMove.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:20:17.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseMonster.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Monsters\\BaseMonster.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\Monsters\\BaseMonster.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Monsters\\BaseMonster.cs",
+              "RelativeToolTip": "PKMN.Models\\Monsters\\BaseMonster.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADgv2cAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:12:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Moves\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\Moves\\StatusEnum.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Moves\\StatusEnum.cs",
+              "RelativeToolTip": "PKMN.Models\\Moves\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:54:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Players\\AIPlayer.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\Players\\AIPlayer.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Players\\AIPlayer.cs",
+              "RelativeToolTip": "PKMN.Models\\Players\\AIPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:27:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Players\\BasePlayer.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\Players\\BasePlayer.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\Players\\BasePlayer.cs",
+              "RelativeToolTip": "PKMN.Models\\Players\\BasePlayer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA9wCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:58:17.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\IUserInputManager.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\IUserInputManager.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\IUserInputManager.cs",
+              "RelativeToolTip": "PKMN.Models\\IUserInputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:55:02.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnResult.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\TurnResult.cs",
+              "RelativeDocumentMoniker": "PKMN.Models\\TurnResult.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Models\\TurnResult.cs",
+              "RelativeToolTip": "PKMN.Models\\TurnResult.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0EAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:03:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.BattleSys\\BattleManager.cs",
+              "RelativeDocumentMoniker": "PKMN.BattleSys\\BattleManager.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.BattleSys\\BattleManager.cs",
+              "RelativeToolTip": "PKMN.BattleSys\\BattleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:19:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Utilities\\Calculators\\Calculator.cs",
+              "RelativeDocumentMoniker": "PKMN.Utilities\\Calculators\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Utilities\\Calculators\\Calculator.cs",
+              "RelativeToolTip": "PKMN.Utilities\\Calculators\\Calculator.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:05:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseMonsterRepoTest.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.RepoTest\\BaseMonsterRepoTest.cs",
+              "RelativeDocumentMoniker": "PKMN.RepoTest\\BaseMonsterRepoTest.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.RepoTest\\BaseMonsterRepoTest.cs",
+              "RelativeToolTip": "PKMN.RepoTest\\BaseMonsterRepoTest.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwGUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:50:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BattleMoveRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\BattleMoveRepo.cs",
+              "RelativeDocumentMoniker": "PKMN.Repo\\BattleMoveRepo.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\BattleMoveRepo.cs",
+              "RelativeToolTip": "PKMN.Repo\\BattleMoveRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:41:41.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\BaseRepo.cs",
+              "RelativeDocumentMoniker": "PKMN.Repo\\BaseRepo.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\BaseRepo.cs",
+              "RelativeToolTip": "PKMN.Repo\\BaseRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:49:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\IRepo.cs",
+              "RelativeDocumentMoniker": "PKMN.Repo\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\IRepo.cs",
+              "RelativeToolTip": "PKMN.Repo\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:01:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObjectExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Utilities\\ObjectExtensions.cs",
+              "RelativeDocumentMoniker": "PKMN.Utilities\\ObjectExtensions.cs",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Utilities\\ObjectExtensions.cs",
+              "RelativeToolTip": "PKMN.Utilities\\ObjectExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T00:30:30.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PKMN.Repo.csproj",
+              "DocumentMoniker": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\PKMN.Repo.csproj",
+              "RelativeDocumentMoniker": "PKMN.Repo\\PKMN.Repo.csproj",
+              "ToolTip": "C:\\Users\\Samae\\Downloads\\PKMN\\PKMN.Repo\\PKMN.Repo.csproj",
+              "RelativeToolTip": "PKMN.Repo\\PKMN.Repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T23:14:26.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

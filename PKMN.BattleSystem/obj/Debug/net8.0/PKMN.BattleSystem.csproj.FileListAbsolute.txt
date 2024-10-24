@@ -1,0 +1,14 @@
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\bin\Debug\net8.0\PKMN.BattleSystem.exe
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\bin\Debug\net8.0\PKMN.BattleSystem.deps.json
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\bin\Debug\net8.0\PKMN.BattleSystem.runtimeconfig.json
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\bin\Debug\net8.0\PKMN.BattleSystem.dll
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\bin\Debug\net8.0\PKMN.BattleSystem.pdb
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.AssemblyInfoInputs.cache
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.AssemblyInfo.cs
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.csproj.CoreCompileInputs.cache
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.dll
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\refint\PKMN.BattleSystem.dll
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.pdb
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\PKMN.BattleSystem.genruntimeconfig.cache
+C:\Users\alrau\source\repos\PKMN\PKMN.BattleSystem\obj\Debug\net8.0\ref\PKMN.BattleSystem.dll

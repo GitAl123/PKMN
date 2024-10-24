@@ -1,0 +1,12 @@
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\bin\Debug\net8.0\PKMN.Utilities.deps.json
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\bin\Debug\net8.0\PKMN.Utilities.dll
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\bin\Debug\net8.0\PKMN.Utilities.pdb
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.AssemblyInfoInputs.cache
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.AssemblyInfo.cs
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.dll
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\refint\PKMN.Utilities.dll
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.pdb
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\ref\PKMN.Utilities.dll
+C:\Users\Samae\Downloads\PKMN\PKMN.Utilities\obj\Debug\net8.0\PKMN.Utilities.csproj.AssemblyReference.cache

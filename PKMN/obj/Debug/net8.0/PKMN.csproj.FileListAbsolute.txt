@@ -1,0 +1,14 @@
+C:\Users\alrau\source\repos\PKMN\PKMN\bin\Debug\net8.0\PKMN.exe
+C:\Users\alrau\source\repos\PKMN\PKMN\bin\Debug\net8.0\PKMN.deps.json
+C:\Users\alrau\source\repos\PKMN\PKMN\bin\Debug\net8.0\PKMN.runtimeconfig.json
+C:\Users\alrau\source\repos\PKMN\PKMN\bin\Debug\net8.0\PKMN.dll
+C:\Users\alrau\source\repos\PKMN\PKMN\bin\Debug\net8.0\PKMN.pdb
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.AssemblyInfoInputs.cache
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.AssemblyInfo.cs
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.csproj.CoreCompileInputs.cache
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.dll
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\refint\PKMN.dll
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.pdb
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\PKMN.genruntimeconfig.cache
+C:\Users\alrau\source\repos\PKMN\PKMN\obj\Debug\net8.0\ref\PKMN.dll
